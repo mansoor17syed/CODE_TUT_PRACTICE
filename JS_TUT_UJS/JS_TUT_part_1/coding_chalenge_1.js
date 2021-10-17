@@ -17,7 +17,8 @@
 
 //its advisable to use const
 // const MarkWeight=95
-const MarkWeight=998
+// const MarkWeight=998
+const MarkWeight=1998
 const MarkHeight=1.88
 
 const JohnWeight=85
